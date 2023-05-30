@@ -1,0 +1,104 @@
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+H:\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+H:\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+H:\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+H:\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+H:\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+H:\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+H:\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+H:\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+H:\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+H:\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+H:\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.genruntimeconfig.cache
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Downloads\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.genruntimeconfig.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.genruntimeconfig.cache
+H:\RestaurantProject\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+H:\RestaurantProject\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.json
+H:\RestaurantProject\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.runtimeconfig.dev.json
+H:\RestaurantProject\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+H:\RestaurantProject\RestaurantWebApi\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+H:\RestaurantProject\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.AssemblyReference.cache
+H:\RestaurantProject\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\RestaurantProject\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+H:\RestaurantProject\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+H:\RestaurantProject\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+H:\RestaurantProject\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+H:\RestaurantProject\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb
+H:\RestaurantProject\RestaurantWebApi\Repositories\obj\Debug\netcoreapp2.1\Repositories.genruntimeconfig.cache

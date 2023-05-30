@@ -1,0 +1,121 @@
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+H:\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+H:\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+H:\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+H:\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+H:\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+H:\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+H:\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+H:\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+H:\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+H:\להעברה\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+H:\להעברה\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+H:\להעברה\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\להעברה\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+H:\להעברה\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+H:\להעברה\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+H:\להעברה\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+H:\להעברה\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+H:\להעברה\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+H:\להעברה\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+H:\להעברה\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+H:\להעברה\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Downloads\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csprojAssemblyReference.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.deps.json
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.dll
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.dll
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\bin\Debug\netcoreapp2.1\Repositories.pdb
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.AssemblyReference.cache
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.GeneratedMSBuildEditorConfig.editorconfig
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfoInputs.cache
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.AssemblyInfo.cs
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CoreCompileInputs.cache
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.csproj.CopyComplete
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.dll
+H:\RestaurantProject\RestaurantWebApi\ServiceBL\obj\Debug\netcoreapp2.1\ServiceBL.pdb

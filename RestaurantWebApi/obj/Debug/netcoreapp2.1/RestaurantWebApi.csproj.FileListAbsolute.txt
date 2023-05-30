@@ -1,0 +1,202 @@
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\ענייני פרויקט גמר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+H:\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+H:\להעברה\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\PC\Documents\רות\ו' סמינר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\.filenesting.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\פרויקט גמר שר\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.genruntimeconfig.cache
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\PC\Downloads\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\.filenesting.json
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.genruntimeconfig.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+C:\Users\PC\Documents\רות\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\.filenesting.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csprojAssemblyReference.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+D:\Users\user\Desktop\final-project\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.genruntimeconfig.cache
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\.filenesting.json
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.deps.json
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.json
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.runtimeconfig.dev.json
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.dll
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.dll
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.dll
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\ServiceBL.pdb
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\bin\Debug\netcoreapp2.1\Repositories.pdb
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.AssemblyReference.cache
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.GeneratedMSBuildEditorConfig.editorconfig
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfoInputs.cache
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.AssemblyInfo.cs
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CoreCompileInputs.cache
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cache
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorAssemblyInfo.cs
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.RazorTargetAssemblyInfo.cache
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.csproj.CopyComplete
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.dll
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.pdb
+H:\RestaurantProject\RestaurantWebApi\RestaurantWebApi\obj\Debug\netcoreapp2.1\RestaurantWebApi.genruntimeconfig.cache
